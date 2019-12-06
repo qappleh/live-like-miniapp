@@ -10,5 +10,5 @@
 
 3.效果预览图见：assets/preview.gif
 
-![小程序 siri 波形图 预览](assets/preview.gif)
+![小程序点赞动画预览](assets/preview.gif)
 
